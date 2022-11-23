@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+
+.row{
+    width: 800px;
+    height: 100px;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 25%;
+    color: white;
+}
+.col{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(18, 18, 148);
+    
+}
+select{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+#btn{
+    width: 150px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+input{
+    height: 30px;
+    border-radius: 30px;
+}
