@@ -1,5 +1,5 @@
 var x = new XMLHttpRequest()
-x.open("GET","https://api.currencyapi.com/v3/latest?apikey=&")
+x.open("GET","https://api.currencyapi.com/v3/latest?apikey=NWnvXJ4FLeBrinFu0uf2y3j2TPxVhGq3vaxWovEn")
 x.send()
 
 x.onload = function(){
